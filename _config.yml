@@ -10,8 +10,8 @@ url: http://landcrisis.catcrategames.com
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: '/'
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: CatCrateGames (Theme by Pavel Makhov)
+copyright: 2020
 
 share:
   facebook: true
